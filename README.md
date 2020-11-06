@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hey 👋🏽, I'm [Madhushan!](https://madhushanudeshike.web.app) 
+### Hey 👋🏽, I'm [Madhushan!](https://madhushanudeshike.github.io?utm_source=github) 
 
 
 <br/>
