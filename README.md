@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 -->
 
 ### Hey 👋🏽, I'm [Madhushan!](https://madhushanudeshike.github.io?utm_source=github) 
-![Profile views](https://gpvc.arturio.dev/madhushanudeshike)
-
+<!-- ![Profile views](https://gpvc.arturio.dev/madhushanudeshike)
+ -->
 <br/>
 
 
