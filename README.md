@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 Hi, I'm Madhushan Udeshike, a Full Stack Developer 🚀 from Srilanka, currently, I'm a 🙍🏽‍♂️ Freelancer 👨🏽‍💻  Beside's programming, I enjoy eating food and traveling.
 
-  <img align="right" width="450px" alt="GIF" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Madhushan_Udeshike.jpg" />
+  <img align="right" width="450px" alt="GIF" src="https://scontent.fcmb3-1.fna.fbcdn.net/v/t1.6435-9/215242850_2985562505104814_9083976909655193521_n.jpg?_nc_cat=104&ccb=1-4&_nc_sid=09cbfe&_nc_ohc=gzzHy3E8PsgAX8a_1iF&_nc_ht=scontent.fcmb3-1.fna&oh=632ccca232ffa5e17e068059b8613223&oe=613A6AA9" />
   
 **Talking about Personal Stuffs:**
 
