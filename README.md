@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 Hi, I'm Madhushan Udeshike, a Full Stack Developer 🚀 from Srilanka, currently, I'm a 🙍🏽‍♂️ Freelancer 👨🏽‍💻  Beside's programming, I enjoy eating food and traveling.
 
-  <img align="right" width="450px" alt="GIF" src="[https://api.akasa.lk/cdn/developer.webp](https://api.akasa.lk/cdn/developer.webp)" />
+  <img align="right" width="450px" alt="GIF" src="https://api.akasa.lk/cdn/developer.webp" />
   
 **Talking about Personal Stuffs:**
 
