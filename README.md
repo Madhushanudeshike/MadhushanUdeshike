@@ -46,7 +46,6 @@ Hi, I'm Madhushan Udeshike, a Full Stack Developer 🚀 from Srilanka, currently
 - 👯 I’m looking to collaborate on open source/commercial projects
 - 💅 Ping me about **branding**, **development**, **design thinking**
 - 💬 Ask me about **Web Development**
-- 📫 How to reach me: madhushanudeshike@gmail.com;
 
 
 **Languages and Tools:**  
