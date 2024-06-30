@@ -1,64 +1,42 @@
-
-<!--
-**Madhushanudeshike/MadhushanUdeshike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### Hey 👋🏽, I'm [Madhushan!](https://madhushanudeshike.github.io?utm_source=github) 
-<!-- ![Profile views](https://gpvc.arturio.dev/madhushanudeshike)
- -->
-<br/>
+# Hi there 👋, I'm Madhushan Udeshike..😉
 
 
-<a href="https://twitter.com/madhushanul">
-  <img align="left" alt="Madhushan Udeshike | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/madhushanul/">
-  <img align="left" alt="Madhushan Udeshike's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/madhushan_udeshika/">
-  <img align="left" alt="Madhushan Udeshike Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+Hi, I'm Madhushan Udeshike, a Full Stack Developer 🚀 from Sri Lanka. Currently, I'm working as a Freelancer 👨🏽‍💻. Besides programming, I have proficiency in HTML5, CSS3, JavaScript, NodeJS, Python, Java, PHP, Ruby, Go Lang, Dart, MsSql, MySql, Oracle
 
+![Profile views](https://komarev.com/ghpvc/?username=Madhushanudeshike&label=Profile%20views&color=0e75b6&style=flat)
 
+## 🏆 GitHub Trophies
 
-<br />
-<br/>
+<p align="center">
+  <img src='https://github-profile-trophy.vercel.app/?username=Madhushanudeshike&theme=onedark' alt='Madhushanudeshike'>
+</p>
 
-Hi, I'm Madhushan Udeshike, a Full Stack Developer 🚀 from Srilanka, currently, I'm a 🙍🏽‍♂️ Freelancer 👨🏽‍💻  Beside's programming, I enjoy eating food and traveling.
+## 🔗 Connect with me
 
-  <img align="right" width="450px" alt="GIF" src="https://api.akasa.lk/cdn/developer.webp" />
-  
-**Talking about Personal Stuffs:**
+<p align="center">
+  <a href="https://web.facebook.com/Madhushan.UL" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://www.instagram.com/madhushan_udeshika/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://lk.linkedin.com/in/madhushanul" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://open.spotify.com/user/31n5aq6ilbagfjw3e7mcpsj4llku" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"></a>
+  <a href="https://x.com/Madhushanul" target="_blank"><img src='https://img.shields.io/badge/X-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white' alt='X'></a>
+</p>
 
-- 🔭 I’m currently working as **Software Engineer @ Richard Pieris Company PLC**
-- ⚙️ I use daily: `Java`, `.jsp`, `.php`, `.xml`, `.json`,  `.js`, `.html`, `.css`, `.svg`
-- 👯 I’m looking to collaborate on open source/commercial projects
-- 💅 Ping me about **branding**, **development**, **design thinking**
-- 💬 Ask me about **Web Development**
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src='https://github-readme-stats.vercel.app/api/top-langs?username=Madhushanudeshike&show_icons=true&locale=en&layout=compact&theme=onedark' alt='Madhushanudeshike' height='165'>
+  <img src='https://github-readme-stats.vercel.app/api?username=Madhushanudeshike&show_icons=true&locale=en&theme=onedark' alt='Madhushanudeshike' height='165'>
+  <img src='https://github-readme-streak-stats.herokuapp.com/?user=Madhushanudeshike&theme=onedark' alt='Madhushanudeshike' height='165'>
+</p>
 
-**Languages and Tools:**  
+## 📈 Contribution Graph
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-![Madhushan Udeshike's github stats](https://github-readme-stats.vercel.app/api?username=madhushanudeshike&show_icons=true&hide_border=true)
+<p align="center">
+  <img src='https://github-readme-activity-graph.vercel.app/graph?username=Madhushanudeshike&bg_color=1a1b27&color=37bcf6&line=0e75b6&point=ffffff&area=true&hide_border=true' alt='Contribution Graph'>
+</p>
+
+## 📚 GitHub All Stats
+
+<p align="center">
+  <img src='https://myreadme.vercel.app/api/embed/Madhushanudeshike?panels=userstatistics,toprepositories,toplanguages,commitgraph' alt='Madhushanudeshike'>
+</p>
